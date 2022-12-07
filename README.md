@@ -28,7 +28,7 @@ Program skill
 
 微信扫码体验
 
-<img src='https://s1.ax1x.com/2022/12/02/zBw47F.jpg' width='200'>
+<img src='https://i.328888.xyz/img/2022/12/03/i1ACE.jpeg' width='200'>
 
 
 
@@ -41,7 +41,7 @@ Program skill
 
 微信扫码体验
 
-<img src='https://s1.ax1x.com/2022/12/02/zB05KP.jpg' width='200'>
+<img src='https://i.328888.xyz/img/2022/12/03/i1y1Q.jpeg' width='200'>
 
 
 #### 必省生活
@@ -59,7 +59,7 @@ Program skill
 
 微信扫码体验
 
-<img src='https://s1.ax1x.com/2022/12/02/zBBZKx.jpg' width='200'>
+<img src='https://i.328888.xyz/img/2022/12/03/i1f6H.jpeg' width='200'>
 
 
 
