@@ -28,7 +28,7 @@ Program skill
 
 微信扫码体验
 
-<img src='https://i.328888.xyz/img/2022/12/03/i1y1Q.jpeg' width='200'>
+<img src='https://raw.githubusercontent.com/vioao/vioao/master/images/mail.jpeg' width='200'>
 
 
 #### 必省生活
@@ -46,7 +46,7 @@ Program skill
 
 微信扫码体验
 
-<img src='https://i.328888.xyz/img/2022/12/03/i1f6H.jpeg' width='200'>
+<img src='https://raw.githubusercontent.com/vioao/vioao/master/images/sheng.jpeg' width='200'>
 
 #### 智能水印工具箱
 一个图片/短视频处理的小程序
@@ -58,7 +58,7 @@ Program skill
 
 微信扫码体验
 
-<img src='https://i.328888.xyz/img/2022/12/03/i1ACE.jpeg' width='200'>
+<img src='https://raw.githubusercontent.com/vioao/vioao/master/images/duck.jpeg' width='200'>
 
 
 <!--
