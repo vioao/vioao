@@ -9,7 +9,7 @@ I'm Vio. A software developer @ShenZhen. Here is my [Blog](https://blog.vioao.si
 
 
 
-Program skill
+Program Skill
 - Java
 - Pyhon
 - Javascript
