@@ -59,6 +59,13 @@ Program Skill
 <img src='https://raw.githubusercontent.com/vioao/vioao/master/images/duck.jpeg' width='200'>
 
 
+
+#### zlibrary 镜像小程序
+Z-Library（简称Z-Lib，前身为BookFinder）是一个影子图书馆和开放获取文件分享计划，用户可在此一网站上下载期刊文章以及各种类型的书籍。
+本小程序是将其镜像并搬运到微信平台。方便大家使用。
+
+<img src='https://raw.githubusercontent.com/vioao/vioao/master/images/zlibrary.jpeg' width='200'>
+
 <!--
 **vioao/vioao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
