@@ -11,9 +11,10 @@ I'm Vio. A software developer @ShenZhen. Here is my [Blog](https://blog.vioao.si
 
 Program Skill
 - Java
-- Pyhon
+- Python
 - Javascript
 - HTML
+- Flutter
 
 
 这是我利用业余时间做的一些应用
